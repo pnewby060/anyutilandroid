@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnyUtil.iml" filepath="$PROJECT_DIR$/AnyUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amalgam/amalgam.iml" filepath="$PROJECT_DIR$/amalgam/amalgam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidcommoncode19/androidcommoncode19.iml" filepath="$PROJECT_DIR$/androidcommoncode19/androidcommoncode19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidcommonone/androidcommonone.iml" filepath="$PROJECT_DIR$/androidcommonone/androidcommonone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anyutil/anyutil.iml" filepath="$PROJECT_DIR$/anyutil/anyutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apachecommonsio/apachecommonsio.iml" filepath="$PROJECT_DIR$/apachecommonsio/apachecommonsio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonalexvasilkov/commonalexvasilkov.iml" filepath="$PROJECT_DIR$/commonalexvasilkov/commonalexvasilkov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonwx/commonwx.iml" filepath="$PROJECT_DIR$/commonwx/commonwx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/essentialgreenrobot/essentialgreenrobot.iml" filepath="$PROJECT_DIR$/essentialgreenrobot/essentialgreenrobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lazylibrary/lazylibrary.iml" filepath="$PROJECT_DIR$/lazylibrary/lazylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbox/toolbox.iml" filepath="$PROJECT_DIR$/toolbox/toolbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolsfinal/toolsfinal.iml" filepath="$PROJECT_DIR$/toolsfinal/toolsfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utillyyj/utillyyj.iml" filepath="$PROJECT_DIR$/utillyyj/utillyyj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilnisrulz/utilnisrulz.iml" filepath="$PROJECT_DIR$/utilnisrulz/utilnisrulz.iml" />
+    </modules>
+  </component>
+</project>

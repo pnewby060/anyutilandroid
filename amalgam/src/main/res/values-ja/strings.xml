@@ -1,0 +1,4 @@
+<resources>
+    <string name="dialog_title_simple_alert">確認</string>
+    <string name="dialog_button_ok">OK</string>
+</resources>

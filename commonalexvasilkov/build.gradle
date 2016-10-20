@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion Integer.parseInt(ANDROID_COMPILE_SDK)
+    buildToolsVersion ANDROID_BUILD_TOOLS_VERSION
+
+    defaultConfig {
+        minSdkVersion Integer.parseInt(ANDROID_MIN_SDK)
+        targetSdkVersion Integer.parseInt(ANDROID_TARGET_SDK)
+        versionCode Integer.parseInt(VERSION_CODE)
+        versionName VERSION_NAME
+    }
+}
+
+dependencies {
+    provided 'com.alexvasilkov:fluffy-events:1.0.2'
+    provided 'com.google.code.gson:gson:2.3.1'
+    compile 'com.android.support:support-v4:23.2.1'
+}
+
+// New version can be uploaded with 'gradlew clean :library:uploadArchives'
+//apply from: 'gradle-mvn-push.gradle'
+//
+//uploadArchives {
+//    repositories {
+//        mavenDeployer {
+//            // Do not write any "compile" dependencies into the POM
+//            pom*.whenConfigured { pom -> pom.dependencies.removeAll { it.scope == "compile" } }
+//
+//        }
+//    }
+//}

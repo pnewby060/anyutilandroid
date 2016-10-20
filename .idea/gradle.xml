@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/amalgam" />
+            <option value="$PROJECT_DIR$/androidcommoncode19" />
+            <option value="$PROJECT_DIR$/androidcommonone" />
+            <option value="$PROJECT_DIR$/anyutil" />
+            <option value="$PROJECT_DIR$/apachecommonsio" />
+            <option value="$PROJECT_DIR$/commonalexvasilkov" />
+            <option value="$PROJECT_DIR$/commonwx" />
+            <option value="$PROJECT_DIR$/essentialgreenrobot" />
+            <option value="$PROJECT_DIR$/lazylibrary" />
+            <option value="$PROJECT_DIR$/toolbox" />
+            <option value="$PROJECT_DIR$/toolsfinal" />
+            <option value="$PROJECT_DIR$/utillyyj" />
+            <option value="$PROJECT_DIR$/utilnisrulz" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
